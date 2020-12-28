@@ -1,0 +1,3 @@
+[submodule "apps/mqttlib"]
+	path = apps/mqttlib
+	url = git@github.com:Syramo/mqttlib.git
